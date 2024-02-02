@@ -2,9 +2,10 @@
 
 - 📋 Me chamo Anderson Brischiliari.
 - 🌎 Sou um cidadão ítalo-brasileiro.
-- 🛠 Trabalho atualmente como desenvolvedor na Atak Sistemas.
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas na UniFCV.
+- 🛠 Trabalho atualmente como desenvolvedor na Benner Sistemas.
 - 🎓 Formado em Arquitetura e Urbanismo pela Unicesumar.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas na UniCV.
+- 🌱 Pós-Graduando na UniCV (Desenvolvimento Backend).
 - 😊 Pronomes: ele/dele.
 
 <div style="display: inline_block"><br>
