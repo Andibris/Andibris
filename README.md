@@ -1,12 +1,12 @@
-## Olá! Quer saber quem sou? 👋
+## Hello! Do you want to know who I am? 👋
 
-- 📋 Me chamo Anderson Brischiliari.
-- 🌎 Sou um cidadão ítalo-brasileiro.
-- 🛠 Trabalho atualmente como desenvolvedor na Benner Sistemas.
-- 🎓 Formado em Arquitetura e Urbanismo pela Unicesumar.
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas na UniCV.
-- 🌱 Pós-Graduando na UniCV (Desenvolvimento Backend).
-- 😊 Pronomes: ele/dele.
+- 📋 I'm Anderson Brischiliari.
+- 🌎 I'm a brazilian citizen.
+- 🛠 I currently work as a developer at Benner Sistemas.
+- 🎓 Graduated in Architecture and Urbanism from Unicesumar.
+- 🎓 Graduated in Systems Analysis and Development at UniCV.
+- 🌱 Postgraduate student at UniCV (Backend Development).
+- 😊 Pronouns: he/him.
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
