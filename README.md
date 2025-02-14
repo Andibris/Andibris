@@ -2,10 +2,10 @@
 
 - 📋 I'm Anderson Brischiliari.
 - 🌎 I'm a brazilian citizen.
-- 🛠 I currently work as a developer at Benner Sistemas.
+- 🛠 I work as a developer.
 - 🎓 Graduated in Architecture and Urbanism from Unicesumar.
 - 🎓 Graduated in Systems Analysis and Development at UniCV.
-- 🌱 Postgraduate student at UniCV (Backend Development).
+- 🌱 Postgraduated in Backend Development at UniCV.
 - 😊 Pronouns: he/him.
 
 <div style="display: inline_block"><br>
