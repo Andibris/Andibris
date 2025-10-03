@@ -2,7 +2,7 @@
 
 - 📋 I'm Anderson Brischiliari.
 - 🌎 I'm a brazilian citizen.
-- 🛠 I work as a developer.
+- 🛠 Developer & technical educator (Systems Analysis and Development at SENAI).
 - 🎓 Graduated in Architecture and Urbanism from Unicesumar.
 - 🎓 Graduated in Systems Analysis and Development at UniCV.
 - 🌱 Postgraduated in Backend Development at UniCV.
